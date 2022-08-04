@@ -1,2 +1,2 @@
 welcome:
-   message : welcome to test environment
+   message : welcome to test environment. I was served from the config server, in a file called application-dev.yml contained on a GitHub Repo.
